@@ -44,6 +44,8 @@ Create a `Lab Task` issue titled: `[Task] Build the Data Pipeline`
 > they should also create a branch.
 >
 > may be check issue body
+>
+> Break line at the end of all curl commands json
 
 > We follow the usual [`Git workflow`](../../../wiki/git-workflow.md) to complete all tasks.
 
