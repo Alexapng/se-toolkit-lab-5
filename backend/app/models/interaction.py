@@ -51,4 +51,7 @@ class InteractionModel(SQLModel):
     learner_id: int
     item_id: int
     kind: str
-    timestamp: datetime
+    score: float | None = None
+    checks_passed: int | None = None
+    checks_total: int | None = None
+    created_at: datetime
